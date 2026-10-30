@@ -1,0 +1,32 @@
+<svg width="64" height="67" viewBox="0 0 64 67" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="67" fill="#1E1E1E"/>
+<g id="Portfolio Website" filter="url(#filter0_d_0_1)">
+<rect width="1440" height="7419" transform="translate(-98 -6486.16)" fill="#050718"/>
+<g id="Contact Section">
+<g id="Group 17784">
+<g id="Group 17733">
+<g id="Group 17731">
+<g id="Location-pin" clip-path="url(#clip0_0_1)">
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M31.3333 67C32.8571 67 52.6667 36.1154 52.6667 24.3333C52.6667 12.5513 43.1154 3 31.3333 3C19.5512 3 10 12.5513 10 24.3333C10 36.1154 29.8095 67 31.3333 67ZM37.4286 24.3333C37.4286 27.6996 34.6996 30.4286 31.3333 30.4286C27.9671 30.4286 25.2381 27.6996 25.2381 24.3333C25.2381 20.9671 27.9671 18.2381 31.3333 18.2381C34.6996 18.2381 37.4286 20.9671 37.4286 24.3333Z" stroke="#80B840" stroke-width="2"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-102" y="-6486.16" width="1448" height="7427" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="64" height="67" fill="white"/>
+</clipPath>
+</defs>
+</svg>
